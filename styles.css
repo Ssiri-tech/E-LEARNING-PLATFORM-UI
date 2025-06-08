@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #fdf6ec;
+}
+header {
+  background-color: #f05454;
+  padding: 10px;
+  color: white;
+}
+nav a {
+  margin-right: 15px;
+  color: white;
+  text-decoration: none;
+}
+.course-list li {
+  margin: 10px 0;
+}
